@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\oo\bin\Debug\net6.0\oo.exe
+C:\Users\User\Desktop\oo\bin\Debug\net6.0\oo.deps.json
+C:\Users\User\Desktop\oo\bin\Debug\net6.0\oo.runtimeconfig.json
+C:\Users\User\Desktop\oo\bin\Debug\net6.0\oo.dll
+C:\Users\User\Desktop\oo\bin\Debug\net6.0\oo.pdb
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.AssemblyInfo.cs
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.dll
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\refint\oo.dll
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.pdb
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\oo.genruntimeconfig.cache
+C:\Users\User\Desktop\oo\obj\Debug\net6.0\ref\oo.dll
